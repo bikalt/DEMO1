@@ -2,4 +2,5 @@ Create Table
 (
 name varchar(20),
 Address Varchar(10),
-)
+phone int
+);
